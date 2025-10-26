@@ -59,7 +59,7 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"C_MenuWarPaints"
 		"xpos"			"12"
-		"ypos"			"r122"
+		"ypos"			"r192"
 		"zpos"			"3"
 		"wide"			"70"
 		"tall"			"12"

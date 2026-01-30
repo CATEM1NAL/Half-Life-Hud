@@ -1,4 +1,4 @@
-#base "base_flag_notification.res"
+#base "base_notification_noicon.res"
 
 "Resource/UI/notifications/notify_touching_enemy_ctf_cap_blue.res"
 {	

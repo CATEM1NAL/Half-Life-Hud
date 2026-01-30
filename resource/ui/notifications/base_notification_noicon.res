@@ -1,6 +1,6 @@
 #base "base_notification.res"
 
-"Resource/UI/notifications/base_flag_notification.res"
+"Resource/UI/notifications/base_notification_noicon.res"
 {
 	"Notification_Icon"	
 	{
